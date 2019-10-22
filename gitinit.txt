@@ -1,0 +1,8 @@
+创建本地仓库：
+1）进去本地项目文件夹中
+2）右键 git bash here
+3）执行命令：git init 初始化git本地库
+Administrator@USER-20160904SP MINGW64 /f/node-vue-demo
+$ git init
+Initialized empty Git repository in F:/node-vue-demo/.git/
+4）.git 是隐藏的文件，需要打开 工具-文件夹选项-查看-显示隐藏文件
